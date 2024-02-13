@@ -4,3 +4,11 @@ def calculate_age():
     current_year = 2024 
     age = current_year - birth_year
     print("You are " + str(age) + " years old.")
+calculate_age()
+
+def helloWorld():
+	print("Hello World")
+
+
+helloWorld()
+
